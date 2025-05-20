@@ -7,3 +7,5 @@ motor
 dotenv
 PyJWT
 pydantic
+email-validator
+pydantic[email]
